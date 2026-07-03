@@ -1,157 +1,152 @@
-<h1 align="center">Hi 👋, I'm Farhan Shaukat</h1>
 
-<h3 align="center">
-Senior React Native & Full Stack Mobile Application Developer
-</h3>
+<div align="center">
 
-<p align="center">
-Building high-performance Android & iOS applications with React Native, scalable backend architectures, and modern AI-powered solutions.
+# Hi there 👋 I'm **Farhan Shaukat**
+
+### 📱 Senior React Native Developer • Full Stack Mobile Engineer • AI Enthusiast
+
+<p>
+Building high-performance Android & iOS applications with React Native, scalable backend systems, and AI-powered solutions.
 </p>
 
-<p align="center">
-<a href="https://farhaanx.vercel.app">
-<img src="https://img.shields.io/badge/🌐 Portfolio-Visit-2563EB?style=for-the-badge"/>
-</a>
+<p>
+<a href="https://farhaanx.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-2563EB?style=for-the-badge"/></a>
+<a href="https://www.linkedin.com/in/farhaanx/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://github.com/farhaanx"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
 
-<a href="https://www.linkedin.com/in/farhaanx/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+<br><br>
 
-<a href="https://github.com/farhaanx">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-</a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=React+Native+Developer;Full+Stack+Mobile+Engineer;Building+Production+Ready+Apps;100K%2B+Users+Worldwide;Always+Learning+New+Technologies" />
+
+</div>
 
 ---
 
 # 👨🏻‍💻 About Me
 
-🚀 Mobile Application Developer with **3+ years** of professional experience.
-
-📱 Specialized in building production-ready Android & iOS applications using **React Native**.
-
-💼 Worked with startups, enterprise companies, international clients, and freelance businesses to build scalable mobile products.
-
-🔥 Built applications used by **100,000+ users worldwide**.
-
-🤖 Passionate about AI, automation, clean architecture, performance optimization, and beautiful user experiences.
+- 🚀 3+ years of professional software development experience.
+- 📱 Specialized in React Native mobile applications.
+- 🍎 Built production apps for Android & iOS.
+- 🔥 Applications used by **100K+ users worldwide**.
+- 🤖 Passionate about AI, automation, performance optimization, and clean architecture.
+- 🌍 Experienced with startups, enterprise software, and freelance projects.
 
 ---
 
 # 🛠 Tech Stack
 
-### Languages
+## Languages
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,python,java"/>
 </p>
 
-### Mobile
+## Mobile
 
-<p>
-<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android"/>
-<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,firebase"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="48"/>
 </p>
 
-### Frontend
+## Frontend
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs"/>
-<img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="48"/>
 </p>
 
-### Backend
+## Backend
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,django"/>
-<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql"/>
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="48"/>
 </p>
 
-### Databases
+## Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,firebase"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,firebase,supabase,redis"/>
 </p>
 
-### Tools
+## Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,linux,vscode,idea,pycharm"/>
-<img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode"/>
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,git,linux,vscode,idea,pycharm,postman"/>
 </p>
 
 ---
 
 # 🚀 Featured Work
 
-Instead of showcasing only repositories, I focus on building production applications used by real businesses and thousands of users.
+Instead of filling this profile with long project descriptions, I've documented my best work in my portfolio.
 
-Over the last few years I've worked on:
+### Recent Projects
 
-- 📰 A news platform with **100K+ downloads**
-- 🍔 A nationwide restaurant ordering platform
-- 👨‍💼 An enterprise HR Management system
-- 🏕 A camping & booking platform
-- 🤖 AI-powered marketplace applications
-- 🚕 Real-time service booking platform
-- 🌍 International multi-language mobile applications
-- 🎮 Gaming & entertainment applications
-- 🌐 Social networking platforms
+- 📰 News Platform (100K+ Downloads)
+- 🍔 Restaurant Ordering Platform
+- 👨‍💼 Enterprise HR Management System
+- 🏕 Camping & Booking Platform
+- 🚕 AI-powered Service Marketplace
+- 🎮 Gaming Platform
+- 🌐 Social Networking Application
 
-### Curious?
+### 👉 View complete case studies, screenshots, App Store & Play Store links
 
-👉 **See complete case studies, screenshots, App Store links, Google Play links, technologies used, and detailed project breakdowns here:**
+## 🌐 https://farhaanx.vercel.app
 
-# 🌐 **https://farhaanx.vercel.app**
+---
+
+# 💼 Experience
+
+| Company | Role |
+|---------|------|
+| Infix Systems | React Native Developer |
+| DevGate | React Native Developer |
+| Codistan Ventures | Cross Platform App Developer |
+| Smart Kalls Inc. | Mobile App Developer |
+| Gameotivity LLC | React Native Full Stack Developer |
 
 ---
 
 # 📈 GitHub Stats
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=farhaanx&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhaanx&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhaanx&theme=tokyonight&hide_border=true"/>
-
 </p>
-
----
-
-# 🤝 Let's Connect
-
-🌐 **Portfolio**
-
-https://farhaanx.vercel.app
-
-💼 **LinkedIn**
-
-https://www.linkedin.com/in/farhaanx/
-
-💻 **GitHub**
-
-https://github.com/farhaanx
-
----
 
 <p align="center">
-
-⭐ Thanks for visiting my profile!
-
-If you're looking for someone to build high-quality mobile applications, AI-powered solutions, or scalable full-stack products, feel free to connect.
-
+<img src="https://github-profile-trophy.vercel.app/?username=farhaanx&theme=tokyonight&no-frame=true&margin-w=15"/>
 </p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=farhaanx&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=farhaanx&style=for-the-badge"/>
+</p>
+
+---
+
+# 📫 Connect With Me
+
+- 🌐 Portfolio: https://farhaanx.vercel.app
+- 💼 LinkedIn: https://www.linkedin.com/in/farhaanx/
+- 💻 GitHub: https://github.com/farhaanx
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you're interested in collaborating on mobile apps, AI solutions, or full-stack products, feel free to connect.
+
+</div>
