@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Farhan Shaukat</h1>
 
-<h3 align="center">Senior React Native & Full Stack Mobile Application Developer</h3>
+<h3 align="center">
+Senior React Native & Full Stack Mobile Application Developer
+</h3>
 
 <p align="center">
-Building high-performance Android & iOS applications with React Native, modern backend technologies, AI integrations, and scalable architectures.
+Building high-performance Android & iOS applications with React Native, scalable backend architectures, and modern AI-powered solutions.
 </p>
 
 <p align="center">
 <a href="https://farhaanx.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐 Portfolio-Visit-2563EB?style=for-the-badge"/>
 </a>
 
-<a href="https://www.linkedin.com/in/abdulmuhaiman">
+<a href="https://www.linkedin.com/in/farhaanx/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -22,14 +24,17 @@ Building high-performance Android & iOS applications with React Native, modern b
 
 ---
 
-# 👨‍💻 About Me
+# 👨🏻‍💻 About Me
 
-- 📱 React Native Developer with **3+ years** of professional experience.
-- 🚀 Built production applications used by **100K+ users**.
-- 🍎 Experienced in developing and publishing apps for **Android & iOS**.
-- 💼 Worked on enterprise, marketplace, HRM, food ordering, gaming, social networking, and AI-powered mobile applications.
-- 🤖 Passionate about AI, automation, scalable architectures, and modern mobile development.
-- 🌱 Currently expanding expertise in AI-powered applications and backend systems.
+🚀 Mobile Application Developer with **3+ years** of professional experience.
+
+📱 Specialized in building production-ready Android & iOS applications using **React Native**.
+
+💼 Worked with startups, enterprise companies, international clients, and freelance businesses to build scalable mobile products.
+
+🔥 Built applications used by **100,000+ users worldwide**.
+
+🤖 Passionate about AI, automation, clean architecture, performance optimization, and beautiful user experiences.
 
 ---
 
@@ -38,10 +43,10 @@ Building high-performance Android & iOS applications with React Native, modern b
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,java" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java"/>
 </p>
 
-### Mobile Development
+### Mobile
 
 <p>
 <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -53,14 +58,14 @@ Building high-performance Android & iOS applications with React Native, modern b
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs" />
+<img src="https://skillicons.dev/icons?i=react,nextjs"/>
 <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux"/>
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django"/>
 <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql"/>
 <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io"/>
@@ -69,7 +74,7 @@ Building high-performance Android & iOS applications with React Native, modern b
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,firebase" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,firebase"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis"/>
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase"/>
 </p>
@@ -77,134 +82,39 @@ Building high-performance Android & iOS applications with React Native, modern b
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,linux,vscode,idea,pycharm" />
+<img src="https://skillicons.dev/icons?i=docker,git,linux,vscode,idea,pycharm"/>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode"/>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio"/>
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Work
 
-## 📰 Pencil News
-Cross-platform news application built with React Native.
+Instead of showcasing only repositories, I focus on building production applications used by real businesses and thousands of users.
 
-**Highlights**
-- 100K+ Downloads
-- Push Notifications
-- Firebase
-- Redux Toolkit
-- REST APIs
+Over the last few years I've worked on:
 
-📱 Android  
-https://play.google.com/store/apps/details?id=com.pencil.news.android&hl=en
+- 📰 A news platform with **100K+ downloads**
+- 🍔 A nationwide restaurant ordering platform
+- 👨‍💼 An enterprise HR Management system
+- 🏕 A camping & booking platform
+- 🤖 AI-powered marketplace applications
+- 🚕 Real-time service booking platform
+- 🌍 International multi-language mobile applications
+- 🎮 Gaming & entertainment applications
+- 🌐 Social networking platforms
 
-🍎 iOS  
-https://apps.apple.com/in/app/pencil-news/id6479809178
+### Curious?
 
----
+👉 **See complete case studies, screenshots, App Store links, Google Play links, technologies used, and detailed project breakdowns here:**
 
-## 🍔 Ranchers Cafe
-
-Restaurant Ordering Platform
-
-- React Native
-- GraphQL
-- Socket.IO
-- React Native Maps
-
-📱 Android  
-https://play.google.com/store/apps/details?id=com.ranchers.customer
-
-🍎 iOS  
-https://apps.apple.com/pk/app/ranchers-cafe/id6447162082
+# 🌐 **https://farhaanx.vercel.app**
 
 ---
 
-## 👨‍💼 Daftar Pro
-
-Enterprise HR Management Platform
-
-- Attendance Management
-- Leave & WFH
-- Revenue Reports
-- Employee Management
-- Project Management
-
-📱 Android  
-https://play.google.com/store/apps/details?id=com.daftarpro.app
-
----
-
-## 🏕 Campsites
-
-Camping Marketplace
-
-- Maps
-- Chat
-- Stripe Payments
-- Authentication
-- Community Features
-
----
-
-## 🛍 Teresa by Just
-
-International Marketplace Application
-
-- AI Chat
-- 12 Languages
-- 4 Currencies
-- Marketplace
-- Offline Login
-
-📱 Android  
-https://play.google.com/store/apps/details?id=com.just.teresa
-
-🍎 iOS  
-https://apps.apple.com/us/app/teresa-by-just/id6473748151
-
----
-
-## 🚕 Fusaty
-
-AI Powered Marketplace
-
-- AI Service Requests
-- Voice Processing
-- Image Processing
-- Live Tracking
-- Real-time Bidding
-- Moyasar Payments
-
----
-
-## 🎮 Gameotivity
-
-Gaming Platform
-
-- React Native
-- React
-- Firebase
-- Skia Animations
-
----
-
-## 🌐 Crowdly
-
-Social Super App
-
-- Social Media
-- Food Ordering
-- Ride Booking
-- Blood Donation
-- AI Chatbot
-- Real-time Messaging
-
----
-
-# 📈 GitHub Statistics
+# 📈 GitHub Stats
 
 <p align="center">
 
@@ -222,21 +132,26 @@ Social Super App
 
 ---
 
-# 📫 Let's Connect
+# 🤝 Let's Connect
 
-🌐 **Portfolio**  
+🌐 **Portfolio**
+
 https://farhaanx.vercel.app
 
-💼 **LinkedIn**  
-https://www.linkedin.com/in/abdulmuhaiman
+💼 **LinkedIn**
 
-💻 **GitHub**  
+https://www.linkedin.com/in/farhaanx/
+
+💻 **GitHub**
+
 https://github.com/farhaanx
 
 ---
 
 <p align="center">
 
-⭐ If you like my work, consider giving a ⭐ to my repositories!
+⭐ Thanks for visiting my profile!
+
+If you're looking for someone to build high-quality mobile applications, AI-powered solutions, or scalable full-stack products, feel free to connect.
 
 </p>
