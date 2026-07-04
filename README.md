@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Hi there 👋 I'm **Farhan Shaukat**
@@ -9,14 +8,24 @@
 Building high-performance Android & iOS applications with React Native, scalable backend systems, and AI-powered solutions.
 </p>
 
-<p>
-<a href="https://farhaanx.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-2563EB?style=for-the-badge"/></a>
-<a href="https://www.linkedin.com/in/farhaanx/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
-<a href="https://github.com/farhaanx"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+<p align="center">
+  <a href="https://farhaanx.vercel.app">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-2563EB?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/farhaanx/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/farhaanx">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=React+Native+Developer;Full+Stack+Mobile+Engineer;Building+Production+Ready+Apps;100K%2B+Users+Worldwide;Always+Learning+New+Technologies" />
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=35&lines=React+Native+Developer;Full+Stack+Mobile+Engineer;Building+Production+Ready+Apps;100K%2B+Users+Worldwide;Always+Learning+New+Technologies"
+    style="display:block;margin:auto;"
+  />
+</p>
 
 </div>
 
