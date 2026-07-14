@@ -15,9 +15,6 @@ Building high-performance Android & iOS applications with React Native, scalable
   <a href="https://www.linkedin.com/in/farhanstacks/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/farhanstacks">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
 </p>
 
 <p align="center">
@@ -148,7 +145,6 @@ Instead of filling this profile with long project descriptions, I've documented 
 
 - 🌐 Portfolio: https://farhanstacks.vercel.app
 - 💼 LinkedIn: https://www.linkedin.com/in/farhanstacks/
-- 💻 GitHub: https://github.com/farhanstacks
 
 ---
 
