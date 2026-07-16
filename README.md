@@ -24,17 +24,17 @@ Building high-performance Android & iOS applications with React Native, scalable
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=35&lines=React+Native+Developer;Full+Stack+Mobile+Engineer;Building+Production+Ready+Apps;100K%2B+Users+Worldwide;Always+Learning+New+Technologies"
-    style="display:block;margin:auto;"
-  />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/⭐_Fiverr-Level_2_Seller-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
   <img src="https://img.shields.io/badge/👥_Clients-350%2B_Satisfied-FFB000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🌍_Countries-50%2B-2563EB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/⭐_Rating-4.8%2F5-FF4B4B?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=35&lines=React+Native+Developer;Full+Stack+Mobile+Engineer;Building+Production+Ready+Apps;100K%2B+Users+Worldwide;Always+Learning+New+Technologies"
+    style="display:block;margin:auto;"
+  />
 </p>
 
 </div>
