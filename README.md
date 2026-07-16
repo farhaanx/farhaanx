@@ -30,6 +30,13 @@ Building high-performance Android & iOS applications with React Native, scalable
   />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/⭐_Fiverr-Level_2_Seller-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+  <img src="https://img.shields.io/badge/👥_Clients-350%2B_Satisfied-FFB000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌍_Countries-50%2B-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📱_Apps-100K%2B_Users-FF4B4B?style=for-the-badge" />
+</p>
+
 </div>
 
 ---
