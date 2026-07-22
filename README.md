@@ -99,7 +99,7 @@ Building high-performance Android & iOS applications with React Native, scalable
 
 <p align="center">
 <img src="https://go-skill-icons.vercel.app/api/icons?i=cursor,claude,chatgpt,gemini,deepseek"/>
-<img src="https://img.shields.io/badge/Anto_Gravity-000000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anti_Gravity-000000?style=for-the-badge&logoColor=white"/>
 </p>
 
 # 🚀 Featured Work
